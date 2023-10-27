@@ -1,0 +1,15 @@
+Matriz A:
+4 0 0 9
+8 8 0 8
+6 1 8 3
+
+Matriz B:
+4 9
+1 8
+0 5
+5 4
+
+Resultado da Multiplicação:
+61 72
+80 168
+40 114
